@@ -198,7 +198,7 @@ Follow these steps to deploy the application on AWS:
 
 ## Versioning
 
-I use [GitHub](https://github.com/) for versioning. For the versions available, see the [tags on this repository](https://github.com/alexandrac1420/MultiUserBoard).
+I use [GitHub](https://github.com/) for versioning. For the versions available, see the [tags on this repository](https://github.com/alexandrac1420/RealTimeInteractiveBoard.git).
 
 ## Authors
 
