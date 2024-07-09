@@ -1,7 +1,7 @@
 # Interactive Drawing Board with Real-Time WebSocket Communication
 
 An interactive drawing board developed with React and Spring Boot that allows multiple users to draw on a shared board in real-time using WebSockets.
-![Demo GIF](https://github.com/alexandrac1420/MultiUserBoard/blob/master/Dise%C3%B1o%20sin%20t%C3%ADtulo.gif)
+![Demo GIF](https://github.com/alexandrac1420/RealTimeInteractiveBoard/blob/master/Pictures/download.gif)
 
 ## Getting Started
 
@@ -87,11 +87,14 @@ To run the backend and frontend, follow these steps:
 
     The backend will start on `http://localhost:8080`, and it will store the drawing board's data (i.e., the points that are drawn).
 
+   ![image](https://github.com/alexandrac1420/RealTimeInteractiveBoard/assets/138069735/ba0d3ccd-6edf-4500-8bb9-531c4214e1dd)
+
+
 
 
 ## Architectural Design
 
-![alt text](Pictures/image-3.png)
+![alt text](https://github.com/alexandrac1420/RealTimeInteractiveBoard/blob/master/Pictures/image-3.png)
 
 ### BBCanvas Component (React)
 
@@ -181,7 +184,8 @@ Follow these steps to deploy the application on AWS:
 5. Verify the deployment
 
     Check the application's availability using the public DNS of the EC2 instance on port 8080, e.g.,
-    ![alt text](image.png)
+   
+    ![alt text](https://github.com/alexandrac1420/RealTimeInteractiveBoard/blob/master/Pictures/image.png)
 
 
 
